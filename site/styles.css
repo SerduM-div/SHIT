@@ -1,0 +1,81 @@
+body{
+	background-color: white;
+}
+
+.one{	
+	position: ;
+	width: 100%;
+	height: 77px;
+	background: #ffffff;
+}
+.label{
+	top:-30px;
+	left:50%;
+	right:50%;
+	transform:translate(-50%);
+	position: absolute ;
+	border-radius: 100%;
+	position: ;
+	width: 176px;
+	height: 168px;
+	background: #ffffff;
+	background: url(images/something2.jpg) center  no-repeat;
+	background-position: ;
+}
+.small_one{
+	padding-top: 27px; 
+	height:25px;
+	width: 100%;
+	float: left;
+	background: #ffffff;
+
+}
+.sign_in_button{
+	width: 66px;
+	height: 22px;
+	background: #109D59;
+	border-radius: 4px;
+	display: inline-block;
+	border: none;
+}
+.sign_up_button{
+	width: 134px;
+	height: 22px;
+	background: #EB4900;
+	border-radius: 4px;
+	display: inline-block;
+	border: none;
+}
+.two{
+	position: ;
+	width: 100%;
+	height: 566px;
+	background: #254260;
+}
+.three{
+	width: 100%;
+	height: 304px;
+
+	background: #FFFFFF;
+}
+.four{
+	width: 100%;
+	height: 474px;
+	background: #34B67A;
+}
+.five{
+	width: 100%;
+	height: 974px;
+	background: #FFFFFF;
+}
+.six{
+	width: 100%;
+	height: 233px;
+	background: #254260;
+}
+.seven{
+	width: 100%;
+	height: 69px;
+
+	background: #FFFFFF;
+}

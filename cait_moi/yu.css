@@ -1,0 +1,48 @@
+body{height: 2735px; width: 100%}
+.nav{height: 3%; width: 100%;}
+.rocket{height: 22%; width: 100%; background-color: #254260}
+.pikcha{height: 11%; width: 100%;}
+.karusel{height: 17%; width: 100%; background-color: #34B67A}
+
+.cards{height: ; width: 900px; text-align: center; margin: 0 auto;}
+	.card{height:300px; width:250px ; background-color: #F12F13; margin: 20px;display:inline-block;}
+	.card_inside{height: 5,2%; width: 17%; background-color: #2E3C84}
+
+.unfooter{height: 8%; width: 100%; background-color: #254260}
+.footer{height: 3%; width: 100%;}
+
+@media(max-width: 917px){
+	.cards{
+		width: 100%;
+	}
+}
+/*#rectangle{ width:200px; height:100px; background:blue;}*/
+
+
+
+
+
+			/*
+			<div class="card">
+				<div class="card_inside">
+			</div></div><!--up middle-->
+			
+			<div class="card">
+				<div class="card_inside">
+			</div></div><!--up right-->
+			
+			<div class="card">
+				<div class="card_inside">
+			</div></div><!--down ieft-->
+			
+			<div class="card">
+				<div class="card_inside">
+			</div></div><!--daun middle-->
+			
+			<div class="card">
+				<div class="card_inside">
+			</div></div><!--daun right-->
+			*/
+
+
+
